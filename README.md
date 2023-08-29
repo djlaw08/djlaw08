@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**djlaw08/djlaw08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Lawrence Tupaz and I'm a Computer Science student from Aklan </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">I like doing graphic arts</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2021 <br>📚 I'm currently learning programming and graphic arts<br>🎯 Goals: To be a pro graphic artist.<br>🎲 Fun fact: Did you know that tomato isn't a vegetable but rather a fruit?</p>
+
+
